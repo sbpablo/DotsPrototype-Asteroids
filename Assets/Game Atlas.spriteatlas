@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Game Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 1e69deca89e254747a60e239194e6e3d, type: 3}
+    - {fileID: 2800000, guid: 38222b82e31c5ca4ab4e5fbd13ea2381, type: 3}
+    - {fileID: 2800000, guid: 7d2994d4e3815d644849c55166e1ff51, type: 3}
+    - {fileID: 2800000, guid: 89e5a9b1bd25d40488f6ace875a0dd22, type: 3}
+    - {fileID: 2800000, guid: 7a52d0ac477d50a4aa329e258974c938, type: 3}
+    - {fileID: 2800000, guid: 78c8f23bb5e843e419bb070668315c6a, type: 3}
+    - {fileID: 2800000, guid: e32e2d99c866eb14cb7934124adac9d6, type: 3}
+    - {fileID: 2800000, guid: a243d56ab29c361499a49963c12445c1, type: 3}
+    - {fileID: 2800000, guid: d1490fa032e125149b52b91f766b2633, type: 3}
+    - {fileID: 2800000, guid: 4cc4773bfb7969349bbdc2b383a868d4, type: 3}
+    - {fileID: 21300000, guid: c4a9692c1b0a2d545a2d8a0b4d5f7aad, type: 3}
+    totalSpriteSurfaceArea: 109771
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d1490fa032e125149b52b91f766b2633, type: 3}
+  - {fileID: 21300000, guid: 89e5a9b1bd25d40488f6ace875a0dd22, type: 3}
+  - {fileID: 21300000, guid: 38222b82e31c5ca4ab4e5fbd13ea2381, type: 3}
+  - {fileID: 21300000, guid: 7d2994d4e3815d644849c55166e1ff51, type: 3}
+  - {fileID: 21300000, guid: e32e2d99c866eb14cb7934124adac9d6, type: 3}
+  - {fileID: 21300000, guid: a243d56ab29c361499a49963c12445c1, type: 3}
+  - {fileID: 21300000, guid: 1e69deca89e254747a60e239194e6e3d, type: 3}
+  - {fileID: 21300000, guid: 78c8f23bb5e843e419bb070668315c6a, type: 3}
+  - {fileID: 21300000, guid: 4cc4773bfb7969349bbdc2b383a868d4, type: 3}
+  - {fileID: 21300000, guid: c4a9692c1b0a2d545a2d8a0b4d5f7aad, type: 3}
+  - {fileID: 21300000, guid: 7a52d0ac477d50a4aa329e258974c938, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - shield_bronze
+  - meteorBrown_big1
+  - enemyRed1
+  - enemyGreen1
+  - laserRed03
+  - playerShip1_red
+  - enemyBlue1
+  - meteorBrown_small1
+  - things_gold
+  - darkPurple
+  - meteorBrown_med1
+  m_RenderDataMap: {}
+  m_Tag: Game Atlas
+  m_IsVariant: 0
